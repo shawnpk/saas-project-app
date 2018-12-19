@@ -63,5 +63,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
 gem 'milia', '~>1.3'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 
 gem 'activerecord-session_store', github: 'rails/activerecord-session_store'
